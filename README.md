@@ -63,7 +63,7 @@ Full-quality videos: [hotbar](docs/hotbar.mp4) · [coming online](docs/boot-wifi
    - **Port:** the CH340 COM port
 6. Open `Mini_Portfolio/Mini_Portfolio.ino` and upload.
 
-Then open the board's address (shown in the Serial Monitor at 115200 baud) in your phone's browser. The phone and board need to be on the **same 2.4 GHz network**. For an iPhone hotspot, turn on **Maximize Compatibility**.
+Then open the board's address (shown in the Serial Monitor at 115200 baud) in your phone's browser. The phone and board need to be on the **same 2.4 GHz network**. For an iPhone hotspot, turn on **Maximize Compatibility**(this will not work if you dont do this).
 
 ## Customising
 
@@ -90,6 +90,7 @@ Most settings are `#define`s near the top of the sketch:
 
 - Board, drivers and display setups: [Freenove](https://github.com/Freenove/Freenove_ESP32_Display)
 - [TFT_eSPI](https://github.com/Bodmer/TFT_eSPI) and [TJpg_Decoder](https://github.com/Bodmer/TJpg_Decoder) by Bodmer, and TFT_Touch
-- Built with help from Claude
+- MANYYY youtube videos if i listed all the channels you'`d be here forever...
+- Claude helped when I had no idea what was going on
 
-The hearts, XP bar and hotbar are my own pixel art in a Minecraft-inspired style. This project isn't affiliated with Mojang or Microsoft.
+The hearts, XP bar and hotbar are my own pixel art in a Minecraft-inspired style. This project isn't affiliated with Mojang or Microsoft AT ALL.
